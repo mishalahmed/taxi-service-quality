@@ -1,0 +1,11 @@
+Step 1a: Remove special characters and leading, trailing and multiple internal spaces
+Step 1b: Check to see if license numbers or driver names are mistakenly stored in 'medallion' variable.
+Step 1c: Remove single or double *letter* names and license numbers, and license numbers that are 5 digit numbers or less.
+Step 1d: Split name into name_alpha and name_num and split license into license_alpha and license_num
+
+Step 2a: Extract license numbers from name_num and license_num
+Step 2b: Extract medallion numbers from name_num and license_num
+Step 2c: Extract livery numbers from name_num and license_num
+Step 2d: Replace non-names with missing values
+
+Step 3: Rename and drop variables

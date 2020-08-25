@@ -1,0 +1,12 @@
+Ways to fill in name
+1. License number is available for two complaints, one has name and one doesn't. Borrow from the one that has the name.
+2. Livery number is available for two complaints, one has name and one doesn't. Borrow from the one that has the name.
+
+Ways to fill in license
+1. Name and medallion number is available for two complaints, one has license number and one doesn't. Borrow from the one that has the license number.
+2. Name and livery number is available for two complaints, one has license number and one doesn't. Borrow from the one that has the license number.
+3. Name is available for two complaints on the SAME DATE, one has license number and one doesn't. Borrow from the one that has the license number.
+4. Name is available for two complaints in the SAME MONTH, one has license number and one doesn't. Borrow from the one that has the license number.
+5. A sufficiently long name is available for two complaints, one has license number and one doesn't. Borrow from the one that has the license number.
+6. Unique exact name exists in driver dataset and matches with name in complaints dataset with no associated license number.
+6. Unique similar name exists in driver dataset and (fuzzy) matches with name in complaints dataset with no associated license number.
